@@ -1,5 +1,6 @@
 # Kakuro-Solver
-# @author- Aditya Ranjan
+@author- Aditya Ranjan
+Date- 23-03-2018
 
 This is the Kakuro Solver project using the CSP(Constraints Satisfaction Problem) in C++.
 The executable is named as "myfile", which can be used to solve the problem. The input format to the code can be seen in sample inputs in the file "inputFiles".
